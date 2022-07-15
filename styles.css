@@ -83,8 +83,7 @@ h1, h2, h3, h4, p {
 
 #gift-img-dance:hover {
     background-image: url("https://media0.giphy.com/media/PPgZCwZPKrLcw75EG1/200w.webp");
-        background-size: cover;
-}
+    height: 200px;}
 
 #footer {
     font-style: italic;
